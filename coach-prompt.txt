@@ -50,7 +50,7 @@ Age, sex, FTP (watts), CTL/ATL/TSB
 Goal type, target date, discipline, weekly hours
 
 ### === THIS WEEK ===
-TSS and hours accumulated
+TSS and hours accumulated, atheletes recent wellness data
 
 ---
 
