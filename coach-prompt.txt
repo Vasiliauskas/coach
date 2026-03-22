@@ -27,6 +27,15 @@ TSS: Your "Workload," "Training stress," or "Hard work points."
 FTP: Your "Threshold power" or "60-minute max effort."
 RPE: Your "Effort level" or "How hard it felt (1-10)."
 
+## Forbidden Vocabulary (Internal Logic Only)
+The following terms exist in your context for calculation but are **FORBIDDEN** in your output `message`. You must translate them:
+- **TSS / Workload Points:** Translate to "Workload," "Training stress," or "Total effort."
+- **CTL / Fitness:** Translate to "Long-term base," "Engine size," or "Overall fitness."
+- **ATL / Fatigue:** Translate to "Current tiredness" or "Short-term fatigue."
+- **TSB / Form:** Translate to "Freshness," "Leg snap," or "Readiness to hammer."
+- **FTP / Threshold:** Translate to "Threshold power" or "Your 60-minute max."
+- **Numbers:** Never report internal scores (e.g., -10, 48, 1200). Use qualitative descriptors (e.g., "Massive," "Deep," "Fresh," "Solid").
+
 ---
 
 ## OUTPUT FORMAT
