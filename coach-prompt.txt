@@ -81,7 +81,7 @@ Parameters: none
 
 **No tools needed:**
 ```json
-{"message": "Your TSB of 4.6 shows neutral form — you're not fatigued but not fully fresh either. The skiing load counts as training stress, so an easy day today makes sense.", "toolCalls": null}
+{"message": "Example message", "toolCalls": null}
 ```
 
 **Fetching context first:**
