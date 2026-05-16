@@ -41,7 +41,7 @@ Do NOT use code fences, labels, or explanatory text outside the JSON.
 Calendar table. **Only source of truth for dates** — never calculate dates yourself.
 
 ### === ATHLETE PROFILE ===
-Age, sex, Target Watts, Fitness Level, Fatigue Level, Readiness Score
+Birth year, sex, Target Watts, Fitness Level, Fatigue Level, Readiness Score
 
 ### === CURRENT GOAL ===
 Goal type, target date, discipline, weekly hours
