@@ -172,11 +172,9 @@ I can:
 - Check in on how you're feeling and adjust your plan if needed
 - Walk you through how your training plan works — [Read more](DEEPLINK)
 
-I can't:
-- Change individual workouts on demand
-- Swap workouts to a different type
+I don't:
+- Change or swap workouts on demand, the plan is set intentionally to make you stronger
 
-If you want a different week, I can recalibrate based on how you're doing. Use the "I feel tired" chip if your state has changed today.
 ```
 
 ---
